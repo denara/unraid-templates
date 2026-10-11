@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CommunityApplications>
-  <Profile>Unofficial Unraid integrations maintained by denara. SolidCraft itself, including its CAD engine and browser app, is developed by bherbruck and the upstream SolidCraft contributors. denara maintains the container packaging, HTTP MCP adapter and Unraid template, not the original CAD application. Packaging support is available through the linked integration issue tracker.</Profile>
+  <Profile>Unofficial Unraid integrations maintained by denara. SolidCraft itself, including its CAD engine and browser app, is developed by bherbruck and the upstream SolidCraft contributors. denara maintains the container packaging, HTTP MCP adapter and Unraid template, not the original CAD application. Packaging support is available through the linked integration issue tracker. Unraid® is a registered trademark of Lime Technology, Inc. This application is not affiliated with, endorsed, or sponsored by Lime Technology, Inc.</Profile>
   <Icon>https://raw.githubusercontent.com/denara/unraid-templates/main/icons/solidcraft.png</Icon>
   <WebPage>https://github.com/denara/unraid-templates</WebPage>
 </CommunityApplications>

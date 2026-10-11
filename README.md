@@ -1,5 +1,7 @@
 # denara's unofficial Unraid integrations
 
+Unraid® is a registered trademark of Lime Technology, Inc. This application is not affiliated with, endorsed, or sponsored by Lime Technology, Inc.
+
 Public Community Applications templates. The application source and container pipeline live in
 [denara/solidcraft-unraid](https://github.com/denara/solidcraft-unraid/tree/codex/unraid-mcp-web).
 
