@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CommunityApplications>
-  <Profile>Community-maintained Unraid templates by denara. SolidCraft provides an independent browser CAD app and authenticated HTTP MCP for local AI clients. This is experimental, community packaging of the upstream open-source CAD project. Report packaging issues through the linked project issue tracker.</Profile>
+  <Profile>Unofficial Unraid integrations maintained by denara. SolidCraft itself, including its CAD engine and browser app, is developed by bherbruck and the upstream SolidCraft contributors. denara maintains the container packaging, HTTP MCP adapter and Unraid template, not the original CAD application. Packaging support is available through the linked integration issue tracker.</Profile>
   <Icon>https://raw.githubusercontent.com/denara/unraid-templates/main/icons/solidcraft.png</Icon>
   <WebPage>https://github.com/denara/unraid-templates</WebPage>
 </CommunityApplications>

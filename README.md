@@ -1,9 +1,12 @@
-# denara's Unraid templates
+# denara's unofficial Unraid integrations
 
 Public Community Applications templates. The application source and container pipeline live in
 [denara/solidcraft-unraid](https://github.com/denara/solidcraft-unraid/tree/codex/unraid-mcp-web).
 
-## SolidCraft
+## SolidCraft — unofficial Unraid integration
+
+The CAD engine and browser application are developed by bherbruck and the upstream SolidCraft contributors.
+denara maintains only the container packaging, HTTP MCP adapter and Unraid template.
 
 Experimental Linux amd64 packaging of the independent SolidCraft browser CAD application and
 an authenticated Streamable HTTP MCP service. The web app and MCP use separate CAD models.
