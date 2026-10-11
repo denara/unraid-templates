@@ -19,7 +19,10 @@ container passes modelling, separate-session, file/authentication/origin, restar
 Commit-specific `sha-<full-source-commit>` tags identify earlier builds for controlled rollback.
 No CAD kernel development or upstream application release is implied by these container builds.
 
-Once approved, install through Unraid Community Applications. Before catalog approval, download
+The CA portal received and automatically approved the repository on 2026-10-12 as
+**denara's Repository**. It says the Docker app should appear after the next CA build publishes.
+Install **SolidCraft** through Unraid Community Applications once the listing is visible.
+Until the listing appears, download
 `templates/solidcraft.xml` and use it as a user template, or place it under
 `/boot/config/plugins/community.applications/private/denara/` for local CA use.
 The template requires an appdata mapping and a deployment-specific allowed HTTPS origin.
