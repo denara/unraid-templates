@@ -38,6 +38,7 @@ not a guarantee that every CAD operation is supported. This is not an official u
 ## License and attribution
 
 Templates and documentation are provided under the MIT license in `LICENSE`.
-`icons/solidcraft.png` is generated from the original SolidCraft CLI icon renderer
-(`solvecraft-cli icon --size 256`), by SolidCraft contributors, licensed MIT OR Apache-2.0.
-Source: [CLI renderer](https://github.com/denara/solidcraft-unraid/blob/codex/unraid-mcp-web/apps/solvecraft-cli/src/main.rs).
+`icons/solidcraft.png` mirrors the original upstream SolidCraft application icon,
+by SolidCraft contributors, licensed MIT OR Apache-2.0. It is copied byte-for-byte
+from the canonical Linux 256-pixel export, without modifying the artwork.
+Source: [original icon master](https://github.com/tangency-labs/solidcraft/blob/807e367bdb03210dba188118fe000acd0a4b3725/assets/icons/app/shared/source/app_icon.rs).
